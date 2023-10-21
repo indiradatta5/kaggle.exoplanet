@@ -1,7 +1,7 @@
 Exoplanet Detection Project
 
 This project is focused on the detection of exoplanets using various machine learning models. It utilizes a dataset of features related to exoplanet candidates.
-Introduction
+
 
 Exoplanets are celestial bodies that orbit stars outside our solar system. This project aims to develop and evaluate machine learning models for the classification of exoplanet candidates based on features extracted from data.
 
